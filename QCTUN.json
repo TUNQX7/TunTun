@@ -1,5 +1,4 @@
-{
-   "files": [    
+"files": [    
 
 
 
@@ -11,6 +10,16 @@
 {
          "name": "TH-VIP-True-GAMES01",
          "url": "https://raw.githubusercontent.com/TUNQX7/TunTun/main/kotuu%20vip.ovpn"
+      }   
+  ,      
+ {
+         "name": "TH-VIP-DTAC-GAMES02",
+         "url": "https://github.com/TUNQX7/TunTun/blob/main/pubg123.ovpn"
+      }
+,      
+{
+         "name": "TH-VIP-True-GAMES02",
+         "url": "https://github.com/TUNQX7/TunTun/blob/main/pubg123.ovpn"
       }   
       
    ],
@@ -31,5 +40,5 @@ QcTun VIPဝန်ဆောင်မှု
 APKဗားရှင်း-1
 \n\nFb: Qc Tun",
 "title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   "version":3
+   "version":4
 }
